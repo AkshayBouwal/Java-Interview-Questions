@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_23_RemoveWhiteSpace {
+public class No_23_RemoveWhiteSpace {
 
     /*
     Write a java program to remove extra spaces from the String

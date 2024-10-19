@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_12_Factorial {
+public class No_12_Factorial {
 
     /*
     Write a java program to find a factorial of a number;

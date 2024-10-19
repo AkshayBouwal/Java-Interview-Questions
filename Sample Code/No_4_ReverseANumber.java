@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_4_ReverseANumber {
+public class No_4_ReverseANumber {
 
     /*
 

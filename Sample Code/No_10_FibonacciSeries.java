@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_10_FibonacciSeries {
+public class No_10_FibonacciSeries {
 
     /*
     Write a program for Fibonacci Series

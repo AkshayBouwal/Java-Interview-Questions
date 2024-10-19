@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_22_RemoveSpecialChar {
+public class No_22_RemoveSpecialChar {
 
     /*
     Write a java program to remove all the special characters from a string.

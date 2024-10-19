@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_14_Odd_Even_From_Array {
+public class No_14_Odd_Even_From_Array {
 
     /*
     Write a program to print Odd and Even numbers from an array.

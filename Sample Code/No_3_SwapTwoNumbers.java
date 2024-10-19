@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_3_SwapTwoNumbers {
+public class No_3_SwapTwoNumbers {
 
     /*
 

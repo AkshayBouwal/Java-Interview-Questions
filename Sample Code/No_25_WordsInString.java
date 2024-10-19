@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_25_WordsInString {
+public class No_25_WordsInString {
 
     /*
     Write a java program to count words in the string.

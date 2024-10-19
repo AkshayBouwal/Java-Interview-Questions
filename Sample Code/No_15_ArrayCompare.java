@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Arrays;
 
-public class Question_15_ArrayCompare {
+public class No_15_ArrayCompare {
 
     /*
     Write a program to compare to Arrays and return true is both the arrays are equal otherwise false;

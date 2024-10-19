@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_9_SumOfDigits {
+public class No_9_SumOfDigits {
 
     /*
 

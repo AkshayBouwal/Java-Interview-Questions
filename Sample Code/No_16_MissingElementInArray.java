@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_16_MissingElementInArray {
+public class No_16_MissingElementInArray {
 
     /*
 

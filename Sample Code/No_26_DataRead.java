@@ -3,7 +3,7 @@ package Questions;
 import java.io.*;
 import java.util.Scanner;
 
-public class Question_26_DataRead {
+public class No_26_DataRead {
 
     /*
     Write a java program to read from a .txt file

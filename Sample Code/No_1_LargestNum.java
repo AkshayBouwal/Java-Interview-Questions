@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_1_LargestNum {
+public class No_1_LargestNum {
 
     /*
         You have given three numbers.

@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Arrays;
 
-public class Question_20_BinarySearch {
+public class No_20_BinarySearch {
 
     /*
     Write a java program to find an element in an Array using Binary Search.

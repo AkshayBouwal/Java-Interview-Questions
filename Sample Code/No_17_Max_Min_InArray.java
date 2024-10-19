@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Arrays;
 
-public class Question_17_Max_Min_InArray {
+public class No_17_Max_Min_InArray {
 
     /*
     Write a program to find Maximum and Minimum element in the Array

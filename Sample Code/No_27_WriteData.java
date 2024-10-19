@@ -4,7 +4,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Question_27_WriteData {
+public class No_27_WriteData {
 
     /*
          Write a java program to write into a .txt file

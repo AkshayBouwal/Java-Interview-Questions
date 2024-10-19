@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_2_CapitalizeInitial {
+public class No_2_CapitalizeInitial {
 
     /*
 

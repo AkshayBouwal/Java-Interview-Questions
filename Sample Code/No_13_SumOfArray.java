@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_13_SumOfArray {
+public class No_13_SumOfArray {
 
     /*
     Write a java program to find the sum of element in the array

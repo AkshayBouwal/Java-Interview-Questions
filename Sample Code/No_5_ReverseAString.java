@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_5_ReverseAString {
+public class No_5_ReverseAString {
 
     /*
     Write a program to reverse a string.

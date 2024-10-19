@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Arrays;
 
-public class Question_21_BubbleSort {
+public class No_21_BubbleSort {
 
     /*
     Write a program to arrange element of an array in ascending/descending order using Bubble Sort

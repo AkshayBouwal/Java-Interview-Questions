@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_7_DigitsInANumber {
+public class No_7_DigitsInANumber {
 
     /*
     Write a program to find no. of digits in a Number;

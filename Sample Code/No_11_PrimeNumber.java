@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_11_PrimeNumber {
+public class No_11_PrimeNumber {
 
     /*
     Write a program to check whether a given number is Prime or Not

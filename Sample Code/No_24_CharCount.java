@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_24_CharCount {
+public class No_24_CharCount {
 
     /*
     Write a java program to count occurrence of a char in a String.

@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.HashSet;
 
-public class Question_18_DuplicateElementInArray {
+public class No_18_DuplicateElementInArray {
 
     /*
     Write a program to find duplicate values in an array.

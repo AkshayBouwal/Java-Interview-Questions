@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_6_PalindromeString {
+public class No_6_PalindromeString {
 
     /*
 

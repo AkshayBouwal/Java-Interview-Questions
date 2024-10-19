@@ -1,6 +1,6 @@
 package Questions;
 
-public class Question_19_LinearSearch {
+public class No_19_LinearSearch {
 
     /*
     Write a java program to find an element using Linear Search
